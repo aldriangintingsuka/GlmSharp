@@ -19,8 +19,9 @@ This library is MIT-licensed.</Description>
     <RepositoryUrl>https://github.com/aldriangintingsuka/GlmSharp</RepositoryUrl>
     <PackageTags>glm, C#, math, .NET, linear, algebra, glsl, opengl, vec, mat, quat</PackageTags>
     <PackageProjectUrl>https://github.com/aldriangintingsuka/GlmSharp</PackageProjectUrl>
-    <VersionPrefix>0.9.8</VersionPrefix>
+    <VersionPrefix>0.9.8.1</VersionPrefix>
     <PackageId>$(AssemblyName)-netstandard</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DefineConstants>
